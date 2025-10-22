@@ -1,5 +1,4 @@
-# Simple Hierarchical Table (React + CSS)
-A React app with a hierarchical table supporting Allocation % and Allocation Val operations, built using plain CSS.
+# Simple Hierarchical Table
 
 ## Run
 ```bash
